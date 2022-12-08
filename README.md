@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn coding.
 - 🌱 I’m currently learning python automation tool scripting.
 -Email: rohitrokaya08@gmail.com
--Also html & css developer
+-I can also do ethical hacking, problem solving challenges.
+-Skills: Bash Scripting, Python, Java , C, C sharp, C++, Javascript, bat, php, Pro at Linux, CyberSecurity, Penetesting,etc .
 
 <!---
 rokayarohit/rokayarohit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
