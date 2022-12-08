@@ -2,7 +2,9 @@
 - 👀 I’m interested in learn coding.
 - 🌱 I’m currently learning python automation tool scripting.
 -Email: rohitrokaya08@gmail.com
+
 -I can also do ethical hacking, problem solving challenges.
+
 -Skills: Bash Scripting, Python, Java , C, C sharp, C++, Javascript, bat, php, Pro at Linux, CyberSecurity, Penetesting,etc .
 
 <!---
